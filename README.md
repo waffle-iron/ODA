@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/carlosh1989/ODA.png?label=ready&title=Ready)](https://waffle.io/carlosh1989/ODA)
 [![Build Status](https://travis-ci.org/carlosh1989/ODA.svg?branch=master)](https://travis-ci.org/carlosh1989/ODA) ![stability-experimental](https://img.shields.io/badge/stability-experimental-orange.svg)
 
 # FRAMEWORK ODA
